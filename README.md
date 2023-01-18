@@ -1,4 +1,4 @@
-# Vue 3 + Vite
+# Vue 3 + Vite + Tailwind css
 
 ### 功能要求
 - CRUD
@@ -10,3 +10,7 @@
 - 需要使用vue-router進行頁面跳轉
 - 使用Flex佈局
 - 用假數據即可，如果會使用mock更好
+
+### 畫面參考
+
+![image](./public/todo.png)
